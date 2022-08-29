@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SCL020-burger-queen/static/css/main.0ea062f6.css",
+    "main.js": "/SCL020-burger-queen/static/js/main.966add6a.js",
+    "static/media/fondoPrueba.png": "/SCL020-burger-queen/static/media/fondoPrueba.f387f67e377ee4ffb802.png",
+    "static/media/fondo-definitivo-1er-template.jpg": "/SCL020-burger-queen/static/media/fondo-definitivo-1er-template.f0dbcc4f012223927822.jpg",
+    "index.html": "/SCL020-burger-queen/index.html",
+    "main.0ea062f6.css.map": "/SCL020-burger-queen/static/css/main.0ea062f6.css.map",
+    "main.966add6a.js.map": "/SCL020-burger-queen/static/js/main.966add6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea062f6.css",
+    "static/js/main.966add6a.js"
+  ]
+}
